@@ -1,0 +1,5 @@
+prefix              = "pacp-network"
+gcp_project         = "pacp"
+gcp_region          = "us-central1"
+gcp_zone            = "us-central1-c"
+gcp_network         = "pacp-vpc"
